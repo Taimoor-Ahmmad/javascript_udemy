@@ -1,0 +1,2 @@
+/*Most common use case of asynchronous javascript is to fetch data from remote servers
+ AJAX calls*/
